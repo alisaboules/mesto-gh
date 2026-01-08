@@ -3,3 +3,5 @@
 Для запуска приложения необходимо использовать live-server
 ![изображение live-server](image.png)
 Live-server является расширением VSCode
+
+Сайт можно посмотреть по ссылке: https://alisaboules.github.io/mesto-gh/
